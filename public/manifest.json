@@ -1,0 +1,50 @@
+{
+	"name": "Estética Jacaranda",
+	"short_name": "Jacaranda",
+	"description": "Turnos online y servicios de Estética Jacaranda.",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#ffffff",
+	"id": "Jacaranda",
+	"theme_color": "#a78bfa",
+	"orientation": "portrait",
+	"icons": [
+	  {
+		"src": "/images/logo-app-maskable.png",
+		"sizes": "512x512",
+		"type": "image/png",
+		"purpose": "maskable"
+	  },
+	  {
+		"src": "/images/logo-app-maskable.png",
+		"sizes": "512x512",
+		"type": "image/png",
+		"purpose": "any"
+	  },
+	  {
+		"src": "/images/logo-app-maskable.png",
+		"sizes": "512x512",
+		"type": "image/png"
+	  }
+	],
+	"screenshots": [
+	  {
+		"src": "/images/pwa_test/screenshot1.jpg",
+		"type": "image/jpg",
+		"sizes": "1080x1920",
+		"form_factor": "narrow"
+	  },
+	  {
+		"src": "/images/pwa_test/screenshot2.jpg",
+		"type": "image/jpg",
+		"sizes": "1080x1920",
+		"form_factor": "narrow"
+	  },
+	  {
+		"src": "/images/pwa_test/screenshot3.jpg",
+		"type": "image/jpg",
+		"sizes": "1080x1920",
+		"form_factor": "wide"
+	  }
+	]
+  }

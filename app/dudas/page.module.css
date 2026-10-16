@@ -1,0 +1,12 @@
+/* Estilo para los títulos de preguntas y el mapa */
+.h2-dudas {
+  color: #7C56AA;
+  font-family: 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif;
+  box-shadow: 0 1px 8px #fff4;
+}
+
+.h1-dudas {
+  font-family: 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif;
+  color: #7C56AA;
+  letter-spacing: 0.02em;
+}
